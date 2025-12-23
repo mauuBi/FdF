@@ -42,7 +42,7 @@ Language: C
 
 Graphics library: MiniLibX
 
-OS: Linux / macOS
+OS: Linux
 
 Build tool: Makefile
 
